@@ -1,2 +1,2 @@
 # PiecesOf8
-Experimental POS Crypto in Python
+Experimental POS Crypto Currency in Python
