@@ -48,6 +48,8 @@ First block
 These are the rules the Transactors need to follow for creating blocks
 
 	1. Server must have been online for 24 hours
+		- Connected via IPv6
+		- IPv4 optional
 	2. Server must have coins staked for to create blocks
 	3. minimum stake size is 88 coins
 	4. Total value of all transactions cannot exceed total value of staked coins
